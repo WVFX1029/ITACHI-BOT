@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'bgm', fromMe: false, desc: 'send all bgm commands'},
 
     var r_text = new Array ();
     
-    r_text[0] = Config.LOGOSK
+    r_text[0] = "https://i.imgur.com/iqfW5XR.jpg";
     
     var i = Math.floor(1*Math.random())
 
