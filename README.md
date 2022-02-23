@@ -38,6 +38,10 @@
 <a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.githubusercontent.com/Ajx-Abu/c68a8ccac838005277a28d658469162a)   
+ 
+  </div>
+
 <a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
