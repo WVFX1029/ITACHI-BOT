@@ -94,7 +94,7 @@ if (Config.WORKTYPE == 'private') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, caption: '❤️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐁𝐔 𝐒𝐄R 𝐁𝐎𝐓💙'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '❤️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐁𝐔 𝐒𝐄R 𝐁𝐎𝐓💙'})
 
     }));
 }
@@ -188,7 +188,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '❤️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐁𝐔 𝐒𝐄R 𝐁𝐎𝐓💙'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '❤️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐁𝐔 𝐒𝐄𝐑 𝐁𝐎𝐓💙'})
 
     }));
 }
