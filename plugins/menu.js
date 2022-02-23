@@ -8,9 +8,7 @@ Sana.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (asy
 
     var r_text = new Array ();
     
-    
-    r_text[0] = "https://i.imgur.com/iqfW5XR.jpg";
-    
+    r_text[0] = Config.LG_LOGO
     
     var i = Math.floor(1*Math.random())
 
@@ -53,7 +51,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│       © ᴛᴇᴀᴍ ᴀʙᴜ  
+│    *ᴏᴡɴᴇʀ* :` + config.BOT + `
 │       © ᴀʙᴜ ʙᴏᴛ ᴏᴡɴᴇʀ ©
 │
 ╰──────────────────╮
@@ -135,7 +133,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ 
 │
 │   ❏ * ᴀʙᴜ sᴇʀ * ❏
-│   ❏ * ᴀʙᴜ -ᴊᴀsɪʟ * ❏
+│   ❏ *ᴏᴡɴᴇʀ* :` + config.BOT + ` * ❏
 ╰──────────────────╯
 `}) 
 
