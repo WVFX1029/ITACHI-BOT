@@ -234,7 +234,7 @@ if (conf.LANG == 'ML') {
     succ_off = 'Helena സെമി-ഫങ്ഷണൽ ആയി സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
-New.addCommand({ pattern: 'helena ?(.*)', desc: _dsc, fromMe: true,dontAddCommandList: true, usage: '.amalser on / off' }, (async (message, match) => {
+New.addCommand({ pattern: 'abu ?(.*)', desc: _dsc, fromMe: true,dontAddCommandList: true, usage: '.abuser on / off' }, (async (message, match) => {
     var eva_status = `${conf.CHATBOT}`
     if (match[1] == 'on') {
         if (eva_status == 'true') {
