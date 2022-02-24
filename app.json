@@ -1,11 +1,11 @@
 {
-    "name": "Abu Ser ",
+    "name": "Itachi Uchiha ",
     "description": "Abu Ser is the Modified Version of WhatsAsena, Made By Ajx-Abu with Baileys.",
     "logo": "https://i.ibb.co/p1KV95t/20220128-201826.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Ajx-Abu/Abu_ser",
-    "website":   "https://github.com/Ajx-Abu/Abu_ser",
-    "success_url": "https://github.com/Ajx-Abu/Abu_ser",
+    "repository": "https://github.com/WVFX1029/ITACHI-BOT",
+    "website":   "https://github.com/WVFX1029/ITACHI-BOT",
+    "success_url": "https://github.com/WVFX1029/ITACHI-BOT",
     "stack": "container",
     "env": {
         "ABUSER_CODE": {
@@ -33,7 +33,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
-            "value": "ABU💖"
+            "value": "ITACHI💖"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
