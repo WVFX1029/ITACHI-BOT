@@ -20,7 +20,7 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'owner', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'ɪᴛᴀᴄʜɪ's Oᴡɴᴇʀs Nᴜᴍʙᴇʀ ☮︎', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs OᴡɴᴇʀsWɪɴᴅʀᴏ Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *ɪᴛᴀᴄʜɪ Bᴏᴛ Bʏ Wɪɴᴅʀᴏ sᴇʀ *\n 🔮 http://wa.me/+918606413490.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀᴢᴛʀᴏ sᴇʀ *\n 🔮 http://wa.me/+918281440156.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Lᴜᴄᴋʏ Sᴇʀ*\n🔮 http://wa.me/+916238748280\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀʟɴ*\n🔮 http://wa.me/+916238532742\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
+        {title: 'ɪᴛᴀᴄʜɪs Oᴡɴᴇʀs Nᴜᴍʙᴇʀ ☮︎', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs OᴡɴᴇʀsWɪɴᴅʀᴏ Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *ɪᴛᴀᴄʜɪ Bᴏᴛ Bʏ Wɪɴᴅʀᴏ sᴇʀ *\n 🔮 http://wa.me/+918606413490.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀᴢᴛʀᴏ sᴇʀ *\n 🔮 http://wa.me/+918281440156.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Lᴜᴄᴋʏ Sᴇʀ*\n🔮 http://wa.me/+916238748280\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀʟɴ*\n🔮 http://wa.me/+916238532742\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
         {title: 'Gɪᴛ', description: "Iᴛᴀᴄʜɪ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/WVFX1029/ITACHU-BOT\n\n ", rowId:"rowid2"},
         {title: 'Aʙᴜ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
         {title: 'Kᴀʟɴ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Aʙᴜ Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Kᴀʟᴀɴ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtu.be/OYhA_ZNQ4GQ* ", rowId:" rowid6"},
