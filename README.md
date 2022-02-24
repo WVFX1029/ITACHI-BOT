@@ -1,6 +1,6 @@
 ## Setup
 <div align="center">
-  <img src="https://i.imgur.com/snKWQib.jpg" alt="GIF" width="250" height="250"/>
+  <img src="https://wallpapercave.com/wp/wp5051997.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
 ### Simple Method
