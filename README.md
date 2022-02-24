@@ -30,7 +30,7 @@ Click WA logo to Join Support Group 👇
    ## Developers
   <div align="center">
   
-   [![AMRU SER](https://imgur.com/FufgKus.jpeg)](https://github.com/AMRUSIR)[`AMRU SIR`](https://imgur.com/FufgKus)
+   [![WINDRO](https://i.imgur.com/snKWQib.jpg)](https://github.com/WVFX1029)[`WINDRO`](https://imgur.com/FufgKus)
 ----|
    `Bug Fixes, Modules, Commits`
 
