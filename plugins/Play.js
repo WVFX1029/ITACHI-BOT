@@ -46,3 +46,5 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'search your song'
          return await message.client.sendMessage(message.jid,Buffer.from(img.data), MessageType.image, {mimetype: Mimetype.jpg , caption: msg })
 
         });
+
+/*
