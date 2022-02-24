@@ -14,7 +14,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/snKWQib.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="270"/>
+<img src="https://i.pinimg.com/564x/11/f7/83/11f78374741b89e4dea99e0b6356ee3c.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="270"/>
 </p>
 
   <p align="center">
