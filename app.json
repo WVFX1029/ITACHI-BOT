@@ -8,7 +8,7 @@
     "success_url": "https://github.com/WVFX1029/ITACHI-BOT",
     "stack": "container",
     "env": {
-        "ABUSER_CODE": {
+        "ITACHI_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
