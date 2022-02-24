@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/snKWQib.jpg>
+<img src=https://i.ibb.co/nPSmv7d/dd75acba3c0361cca99b05b1e5b6d5c6.png>
 </p>
  </a>
 </p>
@@ -14,7 +14,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://www.linkpicture.com/q/rafi.png?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/snKWQib.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="270"/>
 </p>
 
   <p align="center">
@@ -42,7 +42,7 @@
  
   </div>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgist.github.com%2F&template=https%3A%2F%2Fgithub.com%2FAjx-Abu%2Fdeployeor"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
