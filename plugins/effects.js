@@ -1,6 +1,6 @@
 const Asena = require("../events");
 const { MessageType } = require("@adiwajshing/baileys");
-const { photooxy, ePhotoDownload, getBuffer } = require('../config')
+const { photooxy, ePhotoDownload, getBuffer } = require('../download')
 
 
 Asena.addCommand({ pattern: 'effects ?(.*)', fromMe: true, desc: "Photooxy list", }, async (message, match) => {
