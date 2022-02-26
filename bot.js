@@ -113,7 +113,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'ABUSER' || config.AFPLK == 'ABU' || config.AFPLK == 'Abuser' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'ITACHI' || config.AFPLK == 'WVFX' || config.AFPLK == 'Naruto' || config.AFPLK == 'Windro') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
@@ -168,7 +168,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n*Please Join First Out Support Group And Ask To Update*\n\n*https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV*' + degisiklikler + '```', MessageType.text
+                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n*Please Join First Out Support Group And Ask To Update*\n\n*https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV  *' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
