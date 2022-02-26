@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": " Iᴛᴀᴄʜɪ Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```💫Mᴀɴɢʜᴇᴋʏᴏ Sʜᴀʀɪɴɢᴀɴ💫 Dᴏᴡɴʟᴏᴀᴅɪɴɢ 💝```"
+            "DOWNLOADING": "```💫Mᴀɴɢʜᴇᴋʏᴏ Sʜᴀʀɪɴɢᴀɴ💫```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -440,11 +440,11 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Aʙᴜ Converts text to plain painting.",
+            "TTP_DESC": "Iᴛᴀᴄʜɪ Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*You must enter words!*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
-            "TRUMP_DESC": "Aʙᴜ Converts the text to Trump's tweet.",
+            "TRUMP_DESC": "Iᴛᴀᴄʜɪ Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster."
        },
        "anime": { 
@@ -460,7 +460,7 @@
         "voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
             "ONLY_AUDIO":"```Only audio file is accepted.```",
-            "USAGE": "It Aʙᴜ Converts audio to text.",
+            "USAGE": "It Iᴛᴀᴄʜɪ Converts audio to text.",
             "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
         },
         "notes": {
@@ -491,7 +491,7 @@
         },
         "qrgenerator": {
              "TEXT": "You must enter text!",
-            "QR_DESC": "Aʙᴜ Converts the given text into a qr code image."
+            "QR_DESC": "Iᴛᴀᴄʜɪ Converts the given text into a qr code image."
             
         },
         "whois": {
