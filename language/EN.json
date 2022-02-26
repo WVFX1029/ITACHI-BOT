@@ -27,12 +27,12 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*😥ᴀʙᴜ sᴀʀɪɴᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ🤕ᴀᴅᴍɪɴ ᴋᴀᴛʜᴇ ᴘᴀᴛɪʟʟᴀ ᴠᴀᴠᴇ☹️*",
+            "IM_NOT_ADMIN": "*😥ɪᴛᴀᴄʜɪʏᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ🤕ᴀᴅᴍɪɴ ᴀᴋᴀᴛʜᴇ ᴘᴀᴛɪʟʟᴀ ɴᴇɴʙᴀ☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Aᴠᴀɴ Gʀᴏᴜᴘ Aᴅᴍɪɴ ᴀɴ ᴍᴜᴛʜᴇ🙃```",
+            "ALREADY_PROMOTED": "```Aᴠᴀɴ Gʀᴏᴜᴘ Aᴅᴍɪɴ ᴀɴ ɴᴇɴʙᴀ🙃```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Aʙᴜ sᴇʀ",
+            "RESTART_DESC": "Restart Iᴛᴀᴄʜɪ Uᴄʜɪʜᴀ",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown Aʙᴜ sᴇʀ",
-            "SHUTDOWN_MSG": "```Shutting down 😴Aʙᴜ Sᴇʀ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💥🥰```",
+            "SHUTDOWN_DESC": "Bʏᴇ 😴",
+            "SHUTDOWN_MSG": "```Shutting down 😴 Iᴛᴀᴄʜɪ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💥🥰```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -128,7 +128,7 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Aʙᴜ Dᴏᴡɴʟᴏᴀᴅɪɴɢ media & making meme...```"
+            "DOWNLOADING": "```Iᴛᴀᴄʜɪ Dᴏᴡɴʟᴏᴀᴅɪɴɢ media & making meme...```"
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
@@ -186,12 +186,12 @@
             "SONG_DESC": "Aʙᴜ Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*💙Mᴜᴛʜᴇ Wᴀɪᴛ Cʜᴀʏʏ Aʙᴜ Sᴇʀ Tʜᴀᴘᴘᴜᴋᴀʏᴀɴ 💝🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Aʙᴜ Aʙᴜ Sᴇʀ Uᴘʟᴏᴀᴅɪɴɢ 📲 Hᴇᴅsᴇᴛ Vᴇᴄʜᴏ Nᴀʟʟᴀ Pᴏᴡᴇʀ Aʏɪʀɪᴋᴋᴜᴍ 🎧*\n",
+            "DOWNLOADING_SONG": "\n*💙Mᴜᴛʜᴇ Wᴀɪᴛ Cʜᴀʏʏ Iᴛᴀᴄʜɪ Tʜᴀᴘᴘᴜᴋᴀʏᴀɴ 💝🧚‍♂️*\n",
+            "UPLOADING_SONG": "\n*Iᴛᴀᴄʜɪ Uᴘʟᴏᴀᴅɪɴɢ 📲 Hᴇᴅsᴇᴛ Vᴇᴄʜᴏ Nᴀʟʟᴀ Pᴏᴡᴇʀ Aʏɪʀɪᴋᴋᴜᴍ 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Aʙᴜ Sᴇʀ Dᴏᴡɴʟᴏᴀᴅɪɴɢ 🎥...```",
-            "UPLOADING_VIDEO": "```Aʙᴜ Sᴇʀ Uᴘʟᴏᴀᴅɪɴɢ...```",
+            "DOWNLOADING_VIDEO": "```Iᴛᴀᴄʜɪ Dᴏᴡɴʟᴏᴀᴅɪɴɢ 🎥...```",
+            "UPLOADING_VIDEO": "```Iᴛᴀᴄʜɪ Uᴘʟᴏᴀᴅɪɴɢ...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -199,12 +199,12 @@
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```Aʙᴜ Sᴇʀ Uᴘʟᴏᴀᴅɪɴɢ photo``` *{}* ```number``` *{}*"
+            "IMG": "```Iᴛᴀᴄʜɪ Uᴘʟᴏᴀᴅɪɴɢ photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": " Aʙᴜ Converts your replied photo or video to sticker.",
+            "STICKER_DESC": " Iᴛᴀᴄʜɪ Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```💝Ippam Seriyakithra 🤠Abu Serinte Fan Ano Ni💝```"
+            "DOWNLOADING": "```💫Mᴀɴɢʜᴇᴋʏᴏ Sʜᴀʀɪɴɢᴀɴ💫 Dᴏᴡɴʟᴏᴀᴅɪɴɢ 💝```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Cʜᴇᴄᴋs Tʜᴇ Uᴘᴅᴀᴛᴇ.",
-            "UPDATE": "*💝ᴀʙᴜ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ💝*",
-            "NEW_UPDATE": "*Aʙᴜ sᴇʀ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk \n\nChanges:\n```",
+            "UPDATE": "*💝Iᴛᴀᴄʜɪ ʙᴏᴛ sᴛᴀʀᴛᴇD💝*",
+            "NEW_UPDATE": "*Wᴀᴋᴇ Uᴘ Tᴏ Rᴇᴀʟɪᴛʏ Mᴡᴏɴᴜ Iᴛᴀᴄʜɪ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Iᴛ Mᴀᴋᴇs Uᴘᴅᴀᴛᴇs.",
             "UPDATING": "```Uᴘᴅᴀᴛɪɴɢ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Aʙᴜ Sᴇʀ Uᴘᴅᴀᴛᴇᴅ✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated Aʙᴜ bot😍*",
-            "AFTER_UPDATE": "*Aʙᴜ bot Restarting😎*"
+            "UPDATED": "*Iᴛᴀᴄʜɪ Uᴘᴅᴀᴛᴇ Kᴀʏɪɴᴊ Vᴀɴɴᴇʏ 💝*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated Itachi bot😍*",
+            "AFTER_UPDATE": "*Iᴛᴀᴄʜɪ bot Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -313,12 +313,12 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Aʙᴜ Converts video to sound.",
+            "MP4TOAUDİO_DESC": "Iᴛᴀᴄʜɪ Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Aʙᴜ converting Video to Audio..```",
-            "STİCKER_DESC": "Aʙᴜ Converts the sticker to a photo.",
+            "MP4TOAUDİO": "```Iᴛᴀᴄʜɪ converting Video to Audio..```",
+            "STİCKER_DESC": "Iᴛᴀᴄʜɪ Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*Photokk Reply ayitt ayakk*",
-            "STİCKER": "```Aʙᴜ converting...```",
+            "STİCKER": "```Iᴛᴀᴄʜɪ converting...```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -410,9 +410,9 @@
             "MUTE_OPEN": "*Allright Boss! Chat Has Been Opened!*"
         },
         "unvoice": {
-            "UV_DESC": "Aʙᴜ Converts audio to sound recording.",
+            "UV_DESC": "Iᴛᴀᴄʜɪ Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to an Audio File!*",
-            "UV_PROC": "```Aʙᴜ converting to Sound Recording..```"
+            "UV_PROC": "```Iᴛᴀᴄʜɪ converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
