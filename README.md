@@ -21,7 +21,7 @@
   ##
   <h3 align="center">📢 Support Group :</h3>
 <p align="center">
-Click WA logo to Join Support Group 👇
+Click WA logo to Join Support Group 
     <br>
 <br>
   <a href="https://chat.whatsapp.com/ILqoYaUWpbhHvcf9ZoSslu" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
