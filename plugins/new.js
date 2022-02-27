@@ -26,11 +26,11 @@ WhatsAlexa.addCommand({pattern: 'git', fromMe: whb, dontAddCommandList: true}, (
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: '♡︎ ɢɪᴛ ʟɪɴᴋs♡︎ \n\n\nhttps://github.com/Ajx-Abu/Abu_ser\n\n\nhttps://github.com/Ajx-Abu/Sana-Mwol'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: '♡︎ ɢɪᴛ ʟɪɴᴋs♡︎ \n\n\nhttps://github.com/WVFX1029/ITACHI-BOT'}, type: 1},
 
-        {buttonId: 'id2', buttonText: {displayText: '♡︎ ɢʀᴏᴜᴘ ʟɪɴᴋ ♡︎\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: '♡︎ ɢʀᴏᴜᴘ ʟɪɴᴋ ♡︎\n\n\nhttps://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: '♡︎ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ ♡︎\n\n\nhttp://wa.me/917025994178'}, type: 1}
+        {buttonId: 'id3', buttonText: {displayText: '♡︎ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ ♡︎\n\n\nhttp://wa.me/918606413490'}, type: 1}
 
       ]
 
@@ -40,7 +40,7 @@ WhatsAlexa.addCommand({pattern: 'git', fromMe: whb, dontAddCommandList: true}, (
 
           contentText: "♡︎ ᴄʟɪᴠᴋ ᴛᴏ ʙᴜᴛᴛᴏɴ ♡︎",
 
-          footerText: '™ᴀʙᴜ ©',
+          footerText: '™ɪᴛᴀᴄʜɪ ©',
 
           buttons: buttons,
 
