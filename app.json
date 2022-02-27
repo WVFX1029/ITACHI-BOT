@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is ABU type it in here. Password ABU എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
+            "description": "Password is ITACHI type it in here. Password ITACHI എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
             "required": true
         },
         "LANGUAGE": {
@@ -33,7 +33,7 @@
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
             "required": true,
-            "value": "ITACHI💖"
+            "value": "ITACHI"
         },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -162,7 +162,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "Maghekyo Sharingan"
+            "value": "Manghekyo Sharingan"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
