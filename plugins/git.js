@@ -21,28 +21,18 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: 'command help menu'}, (as
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025868709.
-            
-
-*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/919605385305.
+*Oᴡɴᴇʀ number Aʙᴜ* : https://wa.me/918606413490.
 
 
-*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
+*Gʀᴏᴜᴘ Lɪɴᴋ* : https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV.
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Ajx-Abu/Abu_ser.
+*Gɪᴛ Lɪɴᴋs* : https://github.com/WVFX1029/ITACHI-BOT.
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Ajx-Abu/Sana-Mwol.
 
-
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/bgm.
-
-
-*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/stickers.
-
-◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
-■□ ~💙 𝐀𝐁𝐔 ❤️I💙 𝐒𝐀𝐍𝐀 ❤️~■□ 
+◄━⦁💝𝐈𝐓𝐀𝐂𝐇𝐈 𝐖𝐀 𝐁𝐎𝐓💝⦁━►
+■□ ~💙𝐈𝐓𝐀𝐂𝐇𝐈❤️~■□ 
 
 `}) 
 
