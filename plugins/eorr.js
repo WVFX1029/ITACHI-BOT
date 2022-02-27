@@ -59,7 +59,7 @@ return await message.sendMessage(`🌺 ᴍᴘ3 ᴄᴏᴍᴍᴀɴᴅs🌺
 ┣𝕾⃝🌺 ɪɴғᴏ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Sana.addCommand({ pattern: 'abu ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Sana.addCommand({ pattern: 'wvfx ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎥 ᴠɪᴅᴇᴏ
