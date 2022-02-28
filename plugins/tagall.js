@@ -42,7 +42,7 @@ Asena.addCommand({pattern: 'tagall ?(.*)', fromMe: true, dontAddCommandList: tru
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🎗️ @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 💌 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -90,7 +90,7 @@ else if (Config.WORKTYPE == 'public') {
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🎗️ @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 💌 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -111,7 +111,7 @@ else if (Config.WORKTYPE == 'public') {
         await message.client.sendMessage(message.jid,tx, MessageType.extendedText, {contextInfo: {mentionedJid: jids}, previewType: 0})
     }
 }));
-    var stag_dsc = ''
+var stag_dsc = ''
 if (Config.LANG !== 'ML') stag_dsc = 'Sends the replied message to all members in the group.'
 if (Config.LANG == 'ML') stag_dsc = 'ഗ്രൂപ്പിലെ എല്ലാ അംഗങ്ങൾക്കും മറുപടി സന്ദേശം അയയ്ക്കുന്നു.'
 
@@ -168,7 +168,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
             mesaj = '';
             grup['participants'].map(
                 async (uye) => {
-                    mesaj += '\n 🎗️ @' + uye.id.split('@')[0] + 'ㅤ';
+                    mesaj += '\n 🌀 @' + uye.id.split('@')[0] + 'ㅤ';
                     jids.push(uye.id.replace('c.us', 's.whatsapp.net'));
                 }
             );
@@ -222,4 +222,3 @@ async function checkImAdmin(message, user = message.client.user.jid) {
 }));
 
 }
-
