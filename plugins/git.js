@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: 'command help menu'}, (as
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
 
-*Oᴡɴᴇʀ number Aʙᴜ* : https://wa.me/918606413490.
+*Oᴡɴᴇʀ number ᴡɪɴᴅʀᴏ* : https://wa.me/918606413490.
 
 
 *Gʀᴏᴜᴘ Lɪɴᴋ* : https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV.
